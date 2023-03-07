@@ -9,7 +9,7 @@
 
 <h2>📃Certifications</h2>
 
-- [Isc2's Certified in Cybersecurity](https://www.isc2.org/Certifications/CC?filter=featured&searchRoot=A82B5ABE5FF04271998AE8A4B5D7DEFD)
+- [Isc2's Certified in Cybersecurity](https://www.credly.com/earner/earned/badge/106aec15-6109-4454-9df4-efaeafc0d23f)
 - CompTIA's Security+ (In Progress)
 
 
